@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="inserisci_un_numero_qui">Inserisci un numero qui:</string>
+    <string name="save">Save</string>
+</resources>
